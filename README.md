@@ -1,6 +1,6 @@
 # Adels Consult Landing Page
 
-This is a static one-page website prepared for Netlify deployment.
+This is a static one-page website prepared for Adels Consult.
 
 ## Main Files
 
@@ -8,6 +8,6 @@ This is a static one-page website prepared for Netlify deployment.
 - `styles.css` contains the brand styling using `#0504AA`, `#EDC531`, `#000000`, and `#FFFFFF`.
 - `script.js` handles smooth scrolling for the navigation links.
 - `success.html` is the thank-you page shown after a successful quote request.
-- `assets/images/` contains the logo and image placeholder locations.
+- `assets/images/` contains the logo and images.
 
 
